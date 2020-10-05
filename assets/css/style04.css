@@ -1,0 +1,132 @@
+body {
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  background: black;
+  font-family: 'Raleway', sans-serif;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+h1 {
+  vertical-align: middle;
+  font-size: 4rem;
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+}
+
+.icono {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.header-section1 img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.desc-section {
+  background-color: #000000;
+  min-height: 540px;
+}
+
+.iguana1-texto {
+  width: 650px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 4rem;
+}
+
+.iguana1-texto p {
+  text-align: left;
+  font-weight: 20;
+  font-size: 1.35rem;
+  color: #ffffff;
+  line-height: 2rem;
+}
+
+.desc-image {
+  display: inline-block;
+  margin: 4rem;
+}
+
+.iguana-image {
+  height: 355px;
+  vertical-align: middle;
+}
+
+.icons-section {
+  background-color: #1e1a13;
+  min-height: 540px;
+  text-align: center;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 4rem;
+  font-weight: 400;
+  padding-top: 6rem;
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+.caracteristicas i {
+  fill: #ffffff;
+}
+
+.caracteristicas {
+  display: inline-block;
+  width: 25%;
+  padding-top: 6rem;
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: 20;
+}
+
+.images-section {
+  background-color: #000000;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.images {
+  display: inline-block;
+  box-sizing: border-box;
+  border: 25px solid black;
+  vertical-align: middle;
+  margin: 0 auto;
+}
+
+.imagen123 {
+  height: 260px;
+}
+
+.contenedor-images {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+footer {
+  min-height: 110px;
+  background-color: #1e1a13;
+}
+
+footer a {
+  color: #ffffff;
+  font-size: 1.8rem;
+  font-weight: 20;
+}
+
+footer p {
+  padding-top: 2rem;
+  font-size: 1.8rem;
+  font-weight: 20;
+  margin: 0 auto;
+}

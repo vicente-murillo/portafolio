@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+.logo {
+    height: 27px;
+}
+
+.texto-gris {
+  color: #707070;
+  font-weight: 300;
+}
+
+.texto-negro {
+  font-weight: 300;
+  font-size: 1.5rem;
+}
+
+.subtitulo {
+  font-size: 1.2rem;
+}
+
+.precio1 {
+  color: #707070;
+  font-weight: 300;
+}
+
+.list-group-item {
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+
+.barras {
+  padding-right: 3rem;
+  padding-left: 3rem;
+}
+
+.recibe-cupones {
+  font-size: 1.7rem;
+  padding-bottom: 0.7rem;
+}
+
+.logo-footer {
+  height: 30px;
+}
+
+.texto-footer {
+  color: #707070;
+  font-weight: 300;
+  font-size: 1.7rem;
+}

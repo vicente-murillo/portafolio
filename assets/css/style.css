@@ -1,0 +1,135 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+nav h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.header-section {
+    background-image: url('../img/foto-principal-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 800px;
+    margin-top: 5rem;
+    padding-top: 38rem;
+}
+
+header h1 {
+    font-size: 3.5rem;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+header h2 {
+    font-size: 3.5rem;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+h4 {
+    line-height: 1.5;
+}
+
+h5 {
+    line-height: 2;
+}
+
+.profesiones-section h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+
+.logo-udp {
+    height: 120px;
+}
+
+.profesiones-section h3 {
+    font-size: 2rem;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+}
+
+.texto-años {
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+.trabajos-section {
+    background-color: #000000;
+}
+
+.trabajos-section h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+
+.trabajos-section h5 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.contact-section {
+    min-height: 750px;
+    position: relative;
+}
+
+.contact-section h2 {
+    font-size: 3.5rem;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+.icons-section h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 3.5rem;
+}
+
+.icons-section {
+    background-color: #000000;
+    min-height: 220px;
+    font-size: 3.5rem;
+}
+
+.linea-corta-blanca {
+    border-bottom: solid 2px;
+    color: white;
+    width: 400px;
+}
+
+.linea-corta-negra {
+    border-bottom: solid 2px;
+    color: black;
+    width: 300px;
+}
+
+.linea-corta-negra2 {
+    border-bottom: solid 2px;
+    color: black;
+    width: 300px;
+}
+
+.linkedin-icon {
+    color: white;
+}
+
+.github-icon {
+    color: white;
+}

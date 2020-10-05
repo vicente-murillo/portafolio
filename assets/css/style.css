@@ -3,20 +3,15 @@ body {
     font-weight: 400;
 }
 
-nav h1 {
+nav h2 {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
+    font-size: 3rem;
 }
 
-.navbar {
+.bg-negro {
     background-color: #000000;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    background-color: transparent;
-}
+} 
 
 .header-section {
     background-image: url('../img/foto-principal-1.jpg');
@@ -51,7 +46,7 @@ h5 {
 .profesiones-section h2 {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
-    font-size: 3.5rem;
+    font-size: 3.2rem;
 }
 
 .logo-udp {
@@ -99,7 +94,7 @@ h5 {
 .icons-section h2 {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
-    font-size: 3.5rem;
+    font-size: 3.4rem;
 }
 
 .icons-section {
@@ -111,19 +106,19 @@ h5 {
 .linea-corta-blanca {
     border-bottom: solid 2px;
     color: white;
-    width: 400px;
+    width: 280px;
 }
 
 .linea-corta-negra {
     border-bottom: solid 2px;
     color: black;
-    width: 300px;
+    width: 280px;
 }
 
 .linea-corta-negra2 {
     border-bottom: solid 2px;
     color: black;
-    width: 300px;
+    width: 280px;
 }
 
 .linkedin-icon {
@@ -132,4 +127,8 @@ h5 {
 
 .github-icon {
     color: white;
+}
+
+.navbar-toggler {
+    color: #ffffff;
 }
